@@ -11,7 +11,7 @@
 ## Overview
 
 ### Description
-CV is created by Dr. Angela of (Udemy)[https://www.udemy.com/share/1013gG3@tLxWON-53JjqHqOdQZiV9ukpS0Ax9A9IEvguvxgiNgAORXdll0AEF1Swq7V4HsBy_A==/] which will help you
+CV is created by Dr. Angela of [Udemy](https://www.udemy.com/share/1013gG3@tLxWON-53JjqHqOdQZiV9ukpS0Ax9A9IEvguvxgiNgAORXdll0AEF1Swq7V4HsBy_A==/) which will help you
 the basic of HTML 5.
 
 ### Links
